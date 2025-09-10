@@ -1,7 +1,7 @@
-public class Lab1_Variant11_Group_Kurashov {
+public class Lab1_Variant11_Group23_isp_1_Kurashov {
     public static void main(String[] args) {
         //первое
-        Long secondsInDay, secondsInWeek, secondsInMonth;
+        long secondsInDay, secondsInWeek, secondsInMonth;
         secondsInDay = 60L*60L*24L;
         secondsInWeek = secondsInDay * 7;
         secondsInMonth = secondsInWeek * 30;
